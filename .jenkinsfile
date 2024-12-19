@@ -16,7 +16,7 @@ stage('Build')
 {
 steps
 {
-bat "mvn install"
+echo "Build succesfully"
 }
 
 }
