@@ -1,8 +1,4 @@
 
-Q
-!src/test/java/tests/MapsTest.java,7\5\757b120b67232c4bbc80334cce17609a5cef7a0b
-[
-+src/test/java/tests/SpecificationsTest.java,4\7\474b306740c6561ee3d5e643a60cbfbea2b959e5
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 N
@@ -49,5 +45,3 @@ O
 src/test/java/pojo/Courses.java,5\4\54bc11a8443434a722b94e6c2b6b271ac06acd86
 P
  src/test/java/pojo/Location.java,b\d\bd5b9e9386295be58b4a5ae48d645a0db1e6e1a2
-^
-.src/test/java/tests/ClientCredentialsTest.java,1\d\1d0c93bf04e4de3d5667e0b4b71b477a5d0ffe39

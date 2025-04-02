@@ -1,8 +1,4 @@
 
-Q
-!src/test/java/tests/MapsTest.java,7\5\757b120b67232c4bbc80334cce17609a5cef7a0b
-[
-+src/test/java/tests/SpecificationsTest.java,4\7\474b306740c6561ee3d5e643a60cbfbea2b959e5
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 I
@@ -49,5 +45,3 @@ Z
 .src/test/java/cucumber/Options/TestRunner.java,9\2\9211b564a8d09023bb8a345eeb3a29eb231d7041
 U
 %src/test/java/pojo/WebAutomation.java,8\9\89bce8fe30b692b42320fe19f5e6a4989757b7e7
-^
-.src/test/java/tests/ClientCredentialsTest.java,1\d\1d0c93bf04e4de3d5667e0b4b71b477a5d0ffe39

@@ -27,7 +27,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Mon, 16 Dec 2024 11:24:37 GMT
+Date: Wed, 02 Apr 2025 09:58:35 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "b0c498746eb4e133631c8e3ba9095a58",
+    "place_id": "2dc9a8c0bc7fc722fc97253f8a5d0857",
     "scope": "APP",
-    "reference": "54a22a2db5fac98547adb27026db7dd154a22a2db5fac98547adb27026db7dd1",
-    "id": "54a22a2db5fac98547adb27026db7dd1"
+    "reference": "06608439de190fa64b5dba43ef0805d806608439de190fa64b5dba43ef0805d8",
+    "id": "06608439de190fa64b5dba43ef0805d8"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=b0c498746eb4e133631c8e3ba9095a58
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=2dc9a8c0bc7fc722fc97253f8a5d0857
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=b0c498746eb4e133631c8e3ba9095a58
+				place_id=2dc9a8c0bc7fc722fc97253f8a5d0857
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -75,7 +75,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Mon, 16 Dec 2024 11:24:38 GMT
+Date: Wed, 02 Apr 2025 09:58:37 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -98,4 +98,34 @@ Content-Type: application/json;charset=UTF-8
     "types": "shoe park,shop",
     "website": "http://google.com",
     "language": "Pune"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "2dc9a8c0bc7fc722fc97253f8a5d0857"
+}
+HTTP/1.1 200 OK
+Date: Wed, 02 Apr 2025 09:58:39 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
 }
